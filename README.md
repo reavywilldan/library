@@ -1,2 +1,2 @@
 # library
-list library phhp
+list library php
